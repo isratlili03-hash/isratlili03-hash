@@ -1,52 +1,53 @@
-# 👋 Welcome to Dr. Omrani Mohamed Amine's GitHub Profile
+👋 Welcome to Isra Tlili’s GitHub Profile
 
-Hello! I'm Dr. Omrani Mohamed Amine, a passionate developer from Tunisia 🇹🇳. Welcome to my GitHub profile! Here you can find my repositories, projects, and contributions.
+Hello! I’m Isra Tlili, a passionate future engineer in Embedded Systems from Tunisia 🇹🇳.
+Here you’ll find my repositories, projects, and contributions in the fields of electronics, embedded technologies, and software development.
 
-## 🛠️ Technologies & Tools
+🛠️ Tech Stack
 
-- **Languages:** Python 🐍, JavaScript 🌐, C++ 💻
-- **Frameworks:** Django 🌟, React ⚛️
-- **Tools:** Git 🦸, Docker 🐳, VSCode 💻
+Languages: C | C++ | Python 🐍 | VHDL
 
-## 🚀 About Me
+Frameworks & Tools: Arduino ⚡ | STM32 🔧 | MATLAB 📊 | Git 🦸
 
-- 👨‍⚕️ **Profession:** Software Developer & Researcher
-- 🌍 **Location:** Tunisia
-- 📚 **Interests:** AI & Machine Learning 🤖, Data Science 📊, Open Source Contributions 🌍
-- 🎓 **Education:** [Your Degree/Field] from [Your Institution]
+Interests: Embedded Systems | IoT 🌐 | Automotive Electronics 🚗 | AI 🤖
 
-## 📂 Projects
+🚀 About Me
 
-Here are some of my notable projects:
+👩‍🎓 Education: Engineering student in Embedded Systems
 
-- [**Project Name 1**](link-to-project): A brief description of what this project is about.
-- [**Project Name 2**](link-to-project): A brief description of what this project is about.
-- [**Project Name 3**](link-to-project): A brief description of what this project is about.
+🌍 Location: Monastir, Tunisia
 
-Feel free to explore and contribute!
+📚 Passions: Electronics, robotics, and innovative technologies
 
-## 📫 Contact Me
+🎯 Career Goal: Become an expert in embedded systems & contribute to real-world industrial projects
 
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 🌐 **Website:** [yourwebsite.com](http://yourwebsite.com)
-- 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+📂 Featured Projects
 
-## 📝 Blog Posts
+Smart Home System
+: An IoT-based project for home automation.
 
-Check out my latest blog posts on technology and development:
+Obstacle Avoiding Robot
+: Embedded system project using sensors and microcontrollers.
 
-- [**Blog Post 1**](link-to-blog-post): A brief summary of the blog post.
-- [**Blog Post 2**](link-to-blog-post): A brief summary of the blog post.
+Automotive Dashboard Simulation
+: Real-time data monitoring for vehicles.
 
-## 📈 GitHub Stats
+📫 Contact Me
 
-![Dr. Omrani Mohamed Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+📧 Email: isratlili03@gmail.com
 
-## 🎯 Goals
+📱 Phone: +216 94 944 394
 
-- 🌟 Contribute to open-source projects
-- 🛠️ Develop innovative software solutions
-- 📚 Continue learning and growing in the tech field
+💼 LinkedIn: Isra Tlili
 
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just say hi! 😊
+🌐 Portfolio (coming soon)
+
+📊 GitHub Stats
+
+🎯 Goals
+
+🌟 Work on embedded systems projects in automotive & IoT fields
+
+🛠️ Contribute to open-source embedded solutions
+
+📚 Keep learning and improving in electronics & AI integration
